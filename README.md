@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clarence</h1>
-🔭 I’m currently working on [Go-Getter](https://github.com/clarencetinator7/go-getter)
+<! -- 🔭 I’m currently working on [Go-Getter](https://github.com/clarencetinator7/go-getter) -->
 
 🌱 I’m currently learning **ReactJS, NextJS, Redux, Unity, and C#**
 

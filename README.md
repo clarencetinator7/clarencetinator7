@@ -39,7 +39,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,mongo,express,react,nodejs,nextjs,tailwind)](https://skillicons.dev)
 
 ###
 

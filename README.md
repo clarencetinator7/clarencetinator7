@@ -49,6 +49,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=electron,elixir,sass,docker,webpack,arduino,azure,aws,googlecloud)](https://skillicons.dev)
 
+
+<!---
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -67,6 +69,7 @@
 </div>
 
 ###
+--->
 <!---
 clarencetinator7/clarencetinator7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

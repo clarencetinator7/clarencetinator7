@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I am a 3rd year student from Bulacan State University, pursuing a bachelors degree in Information Technology. Even before college, I've self-thought my way to code, constantly diving into new languages and technologies to expand my skillset. Currently I'm still exploring the different fields in software engineering and recently I've been dabbling into mobile development.</p>
+<p align="left">I am a 4th year student from Bulacan State University, pursuing a bachelors degree in Information Technology.</p>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,java,cs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,react,redux,tailwind,bootstrap,java,cs,unity)](https://skillicons.dev)
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,mongo,express,react,nodejs,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,express,nodejs,nextjs)](https://skillicons.dev)
 
 ###
 

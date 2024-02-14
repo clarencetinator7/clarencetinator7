@@ -31,7 +31,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,react,redux,tailwind,bootstrap,java,cs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,express,nodejs,html,css,react,tailwind,bootstrap,java,cs,unity&perline=6)](https://skillicons.dev)
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=mongo,express,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,laravel,docker,)](https://skillicons.dev)
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=electron,elixir,sass,docker,webpack,arduino,azure,aws,googlecloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,elixir,sass,arduino,azure,aws,googlecloud)](https://skillicons.dev)
 
 
 <!---
